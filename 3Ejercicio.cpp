@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	int n, i,suma;
-	cout << "Ingresa la cantidad de numeros: ";
+	cout << "JAAAIngresa la cantidad de numeros: ";
 	cin >> n;
 	i = 1;
 	suma = 0;
