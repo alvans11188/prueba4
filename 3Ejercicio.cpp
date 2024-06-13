@@ -12,6 +12,6 @@ int main(){
 		suma = suma + i;
 		i++;
 	}
-	cout <<"La suma de los " << n << "primeros numeros es: " << suma << endl;
+	cout <<"La suma de los " << n << "primeros numeros multiplos de son: " << suma << endl;
 	return 0;
 }
